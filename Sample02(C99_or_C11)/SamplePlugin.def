@@ -1,0 +1,12 @@
+;/**
+; * HashSum Plugin SDK
+; *
+; * Written by Yoshifumi Fuyuno <http://hp.vector.co.jp/authors/VA052754/>, 2014.
+; * License: CC0(Public Domain) <https://creativecommons.org/publicdomain/zero/1.0/>
+; */
+
+LIBRARY SumBSDChecksumPlugin
+
+EXPORTS
+  HSP_Initialize @1
+  HSP_PluginFunc @2
