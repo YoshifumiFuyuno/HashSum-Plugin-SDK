@@ -2,7 +2,7 @@
 
 HashSum Plugin SDK.
 
-[HashSum](http://hp.vector.co.jp/authors/VA052754/#hashsum) is hashes Calculate Software(freeware).
+[HashSum](https://hp.vector.co.jp/authors/VA052754/#hashsum) is hashes Calculate Software(freeware).
  * CRC16, CRC32, CRC32C, CRC64
  * MD5
  * SHA-1
@@ -68,4 +68,4 @@ SumBSD checksum algorithm Plugin.
 
 ## Web Site
 
-Yoshifumi Fuyuno's Web Site : http://hp.vector.co.jp/authors/VA052754/
+Yoshifumi Fuyuno's Web Site : https://hp.vector.co.jp/authors/VA052754/
